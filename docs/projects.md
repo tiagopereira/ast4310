@@ -99,8 +99,6 @@ Other markdown, LaTeX: $\epsilon$, etc.
 * It is not the job of the reviewer to force her/his view into the writing of the answers, but provide a neutral viewpoint. 
 * Do not be afraid to point out mistakes if you find them, but always try to do so in a constructive manner and criticise the work, not the person. Write your feedback as you would like to receive it.
 * Avoid discussing your peer review assignments with your colleagues. 
-* The only exception of the above is sharing with your group colleague if you happen to find an answer that is markedly better than your own. This is also a learning experience for you, and in such cases you are encouraged to use what you've learned from other projects when submitting a revised version (see below).
-* If you are using parts of someone else's project in your revised submission, **always give credit**. E.g. *we changed X and Y based on an approach learned from another project we reviewed*. In these cases, try to modify your own answer as opposed to copying someone else's answer or source code. **Wholesale copying of other answers will be considered cheating.**
 
 
 
