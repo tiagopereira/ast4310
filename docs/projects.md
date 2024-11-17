@@ -8,7 +8,7 @@ There are a total of three projects, to be handed in at different times and with
 | ------------- |:-------------:| :----:|
 | [Project 1](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project1)    | 20 Sep | 15% |
 | [Project 2](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project2)   | 25 Oct | 15% |
-| Project 3   | 29 Nov | 20% |
+| [Project 3](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project3)    | 29 Nov | 20% |
 
 
 ## Repository
