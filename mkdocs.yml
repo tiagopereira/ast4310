@@ -1,0 +1,73 @@
+site_name: AST4310 Autumn 2025
+site_url: https://tiagopereira.space/ast4310
+
+# Repository
+repo_name: tiagopereira/ast4310
+repo_url: https://github.com/tiagopereira/ast4310
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/tiagopereira
+    - icon: fontawesome/solid/globe
+      link: https://tiagopereira.space/
+
+nav:
+    - Introduction: index.md
+    - Syllabus and literature: literature.md
+    - Software and tools: tools.md
+    - Project assignments: projects.md
+theme:
+  name: 'material'
+  font: false   # avoid Google fonts for GDPR compliance
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# For mathjax
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
