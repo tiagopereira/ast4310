@@ -3,7 +3,7 @@
 
 ## Programming language
 
-This course can be followed using the [Julia](https://julialang.org/) programming language. Why Julia? Julia is a new language designed from scratch for fast scientific calculations, and has a large and growing ecosystem, especially for astronomy, visualisation, and data science. If you are familiar with Python, using Julia will be similar and in AST4310 we will use simple interfaces to the language. Read our guide to Julia when coming from Python.
+This course can be followed using the [Julia](https://julialang.org/) programming language. Why Julia? Julia is a new language designed from scratch for fast scientific calculations, and has a large and growing ecosystem, especially for astronomy, visualisation, and data science. If you are familiar with Python, using Julia will be similar and in AST4310 we will use simple interfaces to the language. Read our [guide to Julia when coming from Python](julia.md).
 
 Besides the programming language used to run code, jupyter notebooks have a text component using the Markdown language. It will be used extensively in your project reports, and you are encouraged to get more familiar with it. The [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a good reference. Familiarity with LaTeX is also important, but mostly to write equations, which can be included in Markdown using LaTeX syntax.
 
@@ -41,7 +41,7 @@ Then start `julia` in the terminal:
 $ julia
 ```
 
-This should start the Julia REPL, and you'll see a prompt with `julia> `. Press the `\` key to enter the Julia package manager, and the prompt should change to something like `(@v1.11) pkg> `. Here, you will install several basic packages with the command:
+This should start the Julia REPL, and you'll see a prompt with `julia> `. Press the `]` key to enter the Julia package manager, and the prompt should change to something like `(@v1.11) pkg> `. Here, you will install several basic packages with the command:
 
 ```
 (@v1.11) pkg> add CairoMakie Colors HDF5 IJulia Interpolations NumericalIntegration PhysicalConstants  Unitful 
