@@ -1,5 +1,11 @@
 # Software and Tools
 
+## Widgets
+
+Here is a list of interactive widgets that we'll go over during the lectures:
+
+* [Slab line formation](https://tiagopereira.space/widgets/slab.html)
+
 
 ## Programming language
 
