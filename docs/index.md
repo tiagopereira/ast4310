@@ -10,7 +10,7 @@ These pages contain a description of AST4310 and additional resources. The pages
 - The [course's github repository](https://github.com/tiagopereira/ast4310) contains all project notebooks, and will be populated with additional resources as the semester progresses
 
 ## Communication
-- If you want to place questions about any aspect of AST4310, we expect to have a Discourse forum available. Check this page for updates.
+- If you want to place questions about any aspect of AST4310, you can ask questions in our [Discourse forum](https://astro-discourse.uio.no/c/ast4310-25h).
 
 ## Assessment
 
