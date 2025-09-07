@@ -6,7 +6,7 @@ There are a total of three projects, to be handed in at different times and with
 
 |        | Deadline          | Weight  |
 | ------------- |:-------------:| :----:|
-| Project 1  | 19 Sep | 15% |
+| [Project 1](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project1)   | 19 Sep | 15% |
 | Project 2  | 24 Oct | 15% |
 | Project 3  | 28 Nov | 20% |
 
@@ -74,7 +74,7 @@ Examples of meaningless comments are: *Nice work!*, *You did a good plot here!*,
 
 ```html
 <div style="background-color:#e6e6e6; padding:10px; border-style:
-solid;; border-color:#0d0d0d; border-width:1px">
+solid;; border-color:#0d0d0d; border-width:1px; color: black;">
 
 Your markdown comments here.
 

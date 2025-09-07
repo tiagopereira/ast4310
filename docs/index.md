@@ -18,7 +18,7 @@ The final grade is determined by an assessment of three projects (50% of grade),
 
 |        | Deadline          | Weight  |
 | ------------- |:-------------:| :----:|
-| Project 1  | 19 Sep | 15% |
+| [Project 1](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project1)  | 19 Sep | 15% |
 | Project 2  | 24 Oct | 15% |
 | Project 3  | 28 Nov | 20% |
 
