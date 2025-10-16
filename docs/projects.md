@@ -7,7 +7,7 @@ There are a total of three projects, to be handed in at different times and with
 |        | Deadline          | Weight  |
 | ------------- |:-------------:| :----:|
 | [Project 1](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project1)   | 19 Sep | 15% |
-| Project 2  | 24 Oct | 15% |
+| [Project 2](https://github.com/tiagopereira/ast4310/tree/main/notebooks/project2)  | 24 Oct | 15% |
 | Project 3  | 28 Nov | 20% |
 
 
