@@ -7,6 +7,7 @@ Here is a list of interactive widgets that we'll go over during the lectures:
 * [Slab line formation](https://tiagopereira.space/widgets/slab.html)
 * [Line formation in a 1D atmosphere](https://tiagopereira.space/widgets/transp.html)
 * [Coherent scattering in a 1D atmosphere](https://tiagopereira.space/widgets/scattering.html)
+* [Line formation in a magnetised 1D atmosphere](https://tiagopereira.space/widgets/UR.html)
 
 
 ## Programming language
